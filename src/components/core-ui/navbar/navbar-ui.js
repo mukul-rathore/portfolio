@@ -139,7 +139,7 @@ function NavbarUI({ theme, shortname, classes, handleDrawerOpen, handleDrawerClo
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Certifications
+                                        Certificate
                                     </span>
                                 </div>
                             </NavLink>
