@@ -35,7 +35,7 @@ export const projectsData = [
         projectDesc: 'Personal Portfolio Website',
         tags: ['React', 'Material UI'],
         code: 'https://github.com/mukul-rathore/portfolio',
-        demo: 'https://github.com/mukul-rathore/portfolio',
+        demo: 'https://mukulrathore.netlify.app/',
         image: four
     },
     // {
